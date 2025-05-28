@@ -61,4 +61,3 @@ Currently, I'm focused on growing my full-stack development skills through hands
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=J10-A8ARR3&icon=0&color=0)](https://visitcount.itsvg.in)
