@@ -13,7 +13,7 @@ Currently, I'm focused on growing my full-stack development skills through hands
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jiyoabarre) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jioabrr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeo-abarre-67517b241) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=web&logoColor=white)](https://jeoabarre.vercel.app/)
 
 ---
 
