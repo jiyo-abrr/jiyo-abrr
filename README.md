@@ -7,12 +7,21 @@ Currently exploring full-stack development and always working on cool stuff to l
 
 ---
 
-## 🌐 Connect with me:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jiyoabarre) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jioabrr) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeo-abarre-67517b241) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=web&logoColor=white)](https://jeoabarre.vercel.app/)
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/jeo-abarre" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeo-abarre" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/jiyoabarre" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jiyoabarre" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jioabrr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jioabrr" height="30" width="40" />
+  </a>
+  <a href="https://jeoabarre.vercel.app/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
