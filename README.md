@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Jeo  
 
-A web developer who enjoys building **modern, responsive, and efficient web apps**.  
-Currently exploring **full-stack development** and always learning new things.  
+I’m a software developer passionate about creating modern, responsive, and efficient web apps. I enjoy turning ideas into functional and user-friendly solutions. Currently, I’m exploring full-stack development while continuously learning new technologies.
 
 ---
 
