@@ -41,5 +41,8 @@ Currently exploring **full-stack development** and always learning new things.
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jiyo-abrr&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyo-abrr&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jiyo-abrr&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyo-abrr&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
