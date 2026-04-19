@@ -5,18 +5,10 @@ Full Stack Software Developer · building scalable web systems, automation tools
 📍 Caloocan City, NCR, PH &nbsp;|&nbsp; 📧 jeoabarre.dev@gmail.com
 
 <p align="left">
-  <a href="https://linkedin.com/in/jeo-abarre" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36"/>
-  </a>
-  <a href="https://devjiyo.vercel.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="28" width="36"/>
-  </a>
-  <a href="https://fb.com/jiyoabarre" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="28" width="36"/>
-  </a>
-  <a href="https://instagram.com/jioabrr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="36"/>
-  </a>
+  <a href="https://linkedin.com/in/jeo-abarre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jeo--abarre-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://devjiyo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-devjiyo.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://fb.com/jiyoabarre" target="_blank"><img src="https://img.shields.io/badge/Facebook-jiyoabarre-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/jioabrr" target="_blank"><img src="https://img.shields.io/badge/Instagram-jioabrr-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
