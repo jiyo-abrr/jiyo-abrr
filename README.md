@@ -54,7 +54,3 @@ jiyo@dev ~ $ jiyo --stack
 <p align="center">
   <a href="https://devjiyo.vercel.app">devjiyo.vercel.app</a> · Caloocan, PH · v3.2
 </p>
-
-<p align="center">
-  <a href="https://devjiyo.vercel.app">devjiyo.vercel.app</a> · Caloocan, PH · v3.2
-</p>
