@@ -44,12 +44,16 @@ jiyo@dev ~ $ jiyo --stack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jiyo-abrr&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jiyo-abrr&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyo-abrr&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://devjiyo.vercel.app">devjiyo.vercel.app</a> · Caloocan, PH · v3.2
+</p>
 
 <p align="center">
   <a href="https://devjiyo.vercel.app">devjiyo.vercel.app</a> · Caloocan, PH · v3.2
